@@ -11,14 +11,14 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Collaborating with CharaChorder on IQ-EQ open source projects!
-- Working on AWS DynamoDB Transactions!
+- Developing new skills in the field of AI and ML!
+- Innovating and Enhancing Education Experience!
 ```
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
-	- ~~𝙶𝚎𝚝 𝚊 𝙵𝙰𝙰𝙽𝙶𝙼+ 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 (𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎)~~ 𝙷𝚎𝚕𝚕𝚘, 𝙰𝚆𝚂!
+	- ~~𝙶𝚎𝚝 𝚊 𝙵𝙰𝙰𝙽𝙶𝙼+ 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 (𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎)~~ 𝙷𝚎𝚕𝚕𝚘, Google!
 
 
 
@@ -31,4 +31,4 @@
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Yash on LinkedIn" title="Follow Yash on LinkedIn"/>](https://linkedin.com/in/yash-kumar-jha-b34163206)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Yash on Twitter" title="Follow Yash on Twitter"/>](https://twitter.com/Jha_Knows)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Yash on Instagram" title="Follow Yash on Instagram"/>](https://instagram.com/yashh.jhaa)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Yash on Instagram" title="Follow Yash on Instagram"/>](https://www.instagram.com/yashh.jhaa/)
